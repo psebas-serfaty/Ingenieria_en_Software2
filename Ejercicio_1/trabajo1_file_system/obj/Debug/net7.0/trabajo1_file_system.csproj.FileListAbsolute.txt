@@ -1,0 +1,12 @@
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.csproj.AssemblyReference.cache
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.AssemblyInfoInputs.cache
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.AssemblyInfo.cs
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.csproj.CoreCompileInputs.cache
+C:\op\c#\trabajo1_file_system\bin\Debug\net7.0\trabajo1_file_system.deps.json
+C:\op\c#\trabajo1_file_system\bin\Debug\net7.0\trabajo1_file_system.dll
+C:\op\c#\trabajo1_file_system\bin\Debug\net7.0\trabajo1_file_system.pdb
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.dll
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\refint\trabajo1_file_system.dll
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\trabajo1_file_system.pdb
+C:\op\c#\trabajo1_file_system\obj\Debug\net7.0\ref\trabajo1_file_system.dll
